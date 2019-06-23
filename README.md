@@ -4,3 +4,11 @@ Test repo to reproduce [Issue #3](https://github.com/gaffneyc/heroku-buildpack-j
 where NodeJS prints a warning about pthread_create.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+## Testing
+
+```console
+heroku run /app/test.sh
+```
+
+No output means everything worked correctly
