@@ -5,8 +5,6 @@
       "url": "https://github.com/gaffneyc/heroku-buildpack-jemalloc.git"
     }, {
       "url": "heroku/nodejs"
-    }, {
-      "url": "heroku/ruby"
     }
   ]
 }
