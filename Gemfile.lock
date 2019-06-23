@@ -2,14 +2,12 @@ GEM
   remote: https://rubygems.org/
   specs:
     execjs (2.7.0)
-    uglifier (4.1.20)
-      execjs (>= 0.3.0, < 3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  uglifier
+  execjs
 
 RUBY VERSION
    ruby 2.6.3p62
