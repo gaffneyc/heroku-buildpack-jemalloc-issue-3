@@ -1,4 +1,4 @@
 #!/bin/bash
 set -e
 
-jemalloc.sh ruby -rexecjs -e 'ExecJS.compile("")'
+jemalloc.sh node -e ""
